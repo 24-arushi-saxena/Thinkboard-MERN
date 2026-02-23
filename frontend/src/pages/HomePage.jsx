@@ -1,6 +1,6 @@
 // frontend/src/pages/HomePage.jsx
 import React, { useState } from 'react';
-import Navbar from '../components/navbar';
+import Navbar from '../components/Navbar';
 import RateLimitedUI from '../components/RateLimitedUI';
 import axios from 'axios';
 import {toast} from 'react-hot-toast';
